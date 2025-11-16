@@ -1,0 +1,39 @@
+{
+  "node": {
+    "40c75c139c0d50db3e9cbe64c1dd7c8d630aae405a": {
+      "workers": {
+        "app/[...slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[...slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/generate-api-documentation.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/create-virtual-account.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/transfer-funds.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[...slug]/page": "action-browser"
+      }
+    },
+    "409988f9cdca6ffa3f2238cd84f0eeb8efb3e06def": {
+      "workers": {
+        "app/[...slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[...slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/generate-api-documentation.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/create-virtual-account.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/transfer-funds.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[...slug]/page": "action-browser"
+      }
+    },
+    "40e8bd70e7a31283c3205bd1516554a46959b12bd5": {
+      "workers": {
+        "app/[...slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[...slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/generate-api-documentation.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/create-virtual-account.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/transfer-funds.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[...slug]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "QgueNd34MoCvAPG4og5rkcTr3fkBdqrQEdWeq04onfU="
+}

@@ -1,0 +1,16 @@
+{
+  "node": {
+    "409988f9cdca6ffa3f2238cd84f0eeb8efb3e06def": {
+      "workers": {
+        "app/services/virtual-accounts/page": {
+          "moduleId": "[project]/.next-internal/server/app/services/virtual-accounts/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/create-virtual-account.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/services/virtual-accounts/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
