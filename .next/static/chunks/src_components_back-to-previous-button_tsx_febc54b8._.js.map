@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/user/studio/src/components/back-to-previous-button.tsx"],"sourcesContent":["'use client';\n\nimport { useRouter } from 'next/navigation';\nimport { ArrowLeft } from 'lucide-react';\nimport { Button } from '@/components/ui/button';\n\nexport default function BackToPreviousButton() {\n  const router = useRouter();\n\n  return (\n    <Button\n      variant=\"outline\"\n      onClick={() => router.back()}\n      className=\"mb-8\"\n    >\n      <ArrowLeft className=\"mr-2 h-4 w-4\" />\n      Back\n    </Button>\n  );\n}\n"],"names":[],"mappings":";;;;AAEA;AACA;AACA;;;AAJA;;;;AAMe,SAAS;;IACtB,MAAM,SAAS,CAAA,GAAA,qIAAA,CAAA,YAAS,AAAD;IAEvB,qBACE,6LAAC,qIAAA,CAAA,SAAM;QACL,SAAQ;QACR,SAAS,IAAM,OAAO,IAAI;QAC1B,WAAU;;0BAEV,6LAAC,mNAAA,CAAA,YAAS;gBAAC,WAAU;;;;;;YAAiB;;;;;;;AAI5C;GAbwB;;QACP,qIAAA,CAAA,YAAS;;;KADF","debugId":null}}]
+}

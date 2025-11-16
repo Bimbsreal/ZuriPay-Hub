@@ -1,0 +1,16 @@
+{
+  "node": {
+    "40c75c139c0d50db3e9cbe64c1dd7c8d630aae405a": {
+      "workers": {
+        "app/developers/page": {
+          "moduleId": "[project]/.next-internal/server/app/developers/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/ai/flows/generate-api-documentation.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/developers/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
